@@ -19,3 +19,9 @@ logs/
 *.db
 *.sqlite
 *.sqlite3
+
+# temporary audit files
+audit.txt
+audit2.txt
+audit3.txt
+tree.txt
